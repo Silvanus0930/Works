@@ -9,3 +9,4 @@ git clone https://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@github.com/deolly/mot
 git clone https://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@github.com/deolly/admin_mothrift.git
 git clone https://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@github.com/deolly/customer_mothrift.git
 
+adfdas
