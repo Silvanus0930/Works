@@ -1,0 +1,2648 @@
+[{
+  "_id": {
+    "$oid": "651cf14154324a608d844750"
+  },
+  "code": 1,
+  "name": "Sterling Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844751"
+  },
+  "code": 2,
+  "name": "Keystone Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844752"
+  },
+  "code": 3,
+  "name": "FCMB",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844753"
+  },
+  "code": 4,
+  "name": "United Bank for Africa",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844754"
+  },
+  "code": 5,
+  "name": "Diamond Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844755"
+  },
+  "code": 6,
+  "name": "JAIZ Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844756"
+  },
+  "code": 7,
+  "name": "Fidelity Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844757"
+  },
+  "code": 8,
+  "name": "Polaris Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844758"
+  },
+  "code": 9,
+  "name": "Citi Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844759"
+  },
+  "code": 10,
+  "name": "Ecobank Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84475a"
+  },
+  "code": 11,
+  "name": "Unity Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84475b"
+  },
+  "code": 12,
+  "name": "StanbicIBTC Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84475c"
+  },
+  "code": 13,
+  "name": "GTBank Plc",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84475d"
+  },
+  "code": 14,
+  "name": "Access Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84475e"
+  },
+  "code": 15,
+  "name": "Zenith Bank Plc",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84475f"
+  },
+  "code": 16,
+  "name": "First Bank of Nigeria",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844760"
+  },
+  "code": 17,
+  "name": "Wema Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844761"
+  },
+  "code": 18,
+  "name": "Union Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844762"
+  },
+  "code": 19,
+  "name": "Enterprise Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844763"
+  },
+  "code": 20,
+  "name": "Heritage",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844764"
+  },
+  "code": 21,
+  "name": "StandardChartered",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844765"
+  },
+  "code": 22,
+  "name": "Suntrust Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844766"
+  },
+  "code": 23,
+  "name": "Providus Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844767"
+  },
+  "code": 24,
+  "name": "Rand Merchant Bank",
+  "category": 6
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844768"
+  },
+  "code": 25,
+  "name": "Titan Trust Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844769"
+  },
+  "code": 26,
+  "name": "Taj Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84476a"
+  },
+  "code": 27,
+  "name": "Globus Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84476b"
+  },
+  "code": 28,
+  "name": "Central Bank of Nigeria",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84476c"
+  },
+  "code": 31,
+  "name": "Premium Trust Bank",
+  "category": 2
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84476d"
+  },
+  "code": 60001,
+  "name": "Coronation Merchant Bank",
+  "category": 6
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84476e"
+  },
+  "code": 60002,
+  "name": "FBNQUEST Merchant Bank",
+  "category": 6
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84476f"
+  },
+  "code": 60003,
+  "name": "Nova Merchant Bank",
+  "category": 6
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844770"
+  },
+  "code": 60004,
+  "name": "Greenwich Merchant Bank",
+  "category": 6
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844771"
+  },
+  "code": 70001,
+  "name": "NPF MicroFinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844772"
+  },
+  "code": 70002,
+  "name": "Fortis Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844773"
+  },
+  "code": 70006,
+  "name": "Covenant MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844774"
+  },
+  "code": 70007,
+  "name": "Omoluabi savings and loans",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844775"
+  },
+  "code": 70008,
+  "name": "Page Financials",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844776"
+  },
+  "code": 70009,
+  "name": "Gateway Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844777"
+  },
+  "code": 70010,
+  "name": "Abbey Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844778"
+  },
+  "code": 70011,
+  "name": "Refuge Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844779"
+  },
+  "code": 70012,
+  "name": "Lagos Building Investment Company",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84477a"
+  },
+  "code": 70013,
+  "name": "Platinum Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84477b"
+  },
+  "code": 70014,
+  "name": "First Generation Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84477c"
+  },
+  "code": 70015,
+  "name": "Brent Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84477d"
+  },
+  "code": 70016,
+  "name": "Infinity Trust Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84477e"
+  },
+  "code": 70017,
+  "name": "Haggai Mortgage Bank Limited",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84477f"
+  },
+  "code": 70019,
+  "name": "MayFresh Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844780"
+  },
+  "code": 70021,
+  "name": "Coop Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844781"
+  },
+  "code": 70023,
+  "name": "Delta Trust Microfinance Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844782"
+  },
+  "code": 70024,
+  "name": "HOMEBASE MORTGAGE BANK",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844783"
+  },
+  "code": 80002,
+  "name": "Taj_Pinspay",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844784"
+  },
+  "code": 90001,
+  "name": "ASOSavings",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844785"
+  },
+  "code": 90003,
+  "name": "Jubilee-Life Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844786"
+  },
+  "code": 90004,
+  "name": "Parralex Microfinance bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844787"
+  },
+  "code": 90005,
+  "name": "Trustbond Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844788"
+  },
+  "code": 90006,
+  "name": "SafeTrust",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844789"
+  },
+  "code": 90097,
+  "name": "Ekondo MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84478a"
+  },
+  "code": 90107,
+  "name": "FBN Mortgages Limited",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84478b"
+  },
+  "code": 90108,
+  "name": "New Prudential Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84478c"
+  },
+  "code": 90110,
+  "name": "VFD MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84478d"
+  },
+  "code": 90111,
+  "name": "FinaTrust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84478e"
+  },
+  "code": 90112,
+  "name": "Seed Capital Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84478f"
+  },
+  "code": 90114,
+  "name": "Empire trust MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844790"
+  },
+  "code": 90115,
+  "name": "TCF MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844791"
+  },
+  "code": 90116,
+  "name": "AMML MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844792"
+  },
+  "code": 90117,
+  "name": "Boctrust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844793"
+  },
+  "code": 90118,
+  "name": "IBILE Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844794"
+  },
+  "code": 90119,
+  "name": "Ohafia Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844795"
+  },
+  "code": 90120,
+  "name": "Wetland Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844796"
+  },
+  "code": 90121,
+  "name": "Hasal Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844797"
+  },
+  "code": 90122,
+  "name": "Gowans Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844798"
+  },
+  "code": 90123,
+  "name": "Verite Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844799"
+  },
+  "code": 90124,
+  "name": "Xslnce Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84479a"
+  },
+  "code": 90125,
+  "name": "Regent Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84479b"
+  },
+  "code": 90126,
+  "name": "Fidfund Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84479c"
+  },
+  "code": 90127,
+  "name": "BC Kash Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84479d"
+  },
+  "code": 90128,
+  "name": "Ndiorah Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84479e"
+  },
+  "code": 90129,
+  "name": "Money Trust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84479f"
+  },
+  "code": 90130,
+  "name": "Consumer Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a0"
+  },
+  "code": 90131,
+  "name": "Allworkers Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a1"
+  },
+  "code": 90132,
+  "name": "Richway Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a2"
+  },
+  "code": 90133,
+  "name": "AL-Barakah Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a3"
+  },
+  "code": 90134,
+  "name": "Accion Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a4"
+  },
+  "code": 90135,
+  "name": "Personal Trust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a5"
+  },
+  "code": 90136,
+  "name": "Microcred Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a6"
+  },
+  "code": 90137,
+  "name": "PecanTrust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a7"
+  },
+  "code": 90138,
+  "name": "Royal Exchange Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a8"
+  },
+  "code": 90139,
+  "name": "Visa Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447a9"
+  },
+  "code": 90140,
+  "name": "Sagamu Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447aa"
+  },
+  "code": 90141,
+  "name": "Chikum Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ab"
+  },
+  "code": 90142,
+  "name": "Yes Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ac"
+  },
+  "code": 90143,
+  "name": "Apeks Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ad"
+  },
+  "code": 90144,
+  "name": "CIT Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ae"
+  },
+  "code": 90145,
+  "name": "Fullrange Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447af"
+  },
+  "code": 90146,
+  "name": "Trident Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b0"
+  },
+  "code": 90147,
+  "name": "Hackman Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b1"
+  },
+  "code": 90148,
+  "name": "Bowen Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b2"
+  },
+  "code": 90149,
+  "name": "IRL Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b3"
+  },
+  "code": 90150,
+  "name": "Virtue Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b4"
+  },
+  "code": 90151,
+  "name": "Mutual Trust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b5"
+  },
+  "code": 90152,
+  "name": "Nagarta Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b6"
+  },
+  "code": 90153,
+  "name": "FFS Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b7"
+  },
+  "code": 90154,
+  "name": "CEMCS Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b8"
+  },
+  "code": 90155,
+  "name": "Advans La Fayette Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447b9"
+  },
+  "code": 90156,
+  "name": "e-Barcs Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ba"
+  },
+  "code": 90157,
+  "name": "Infinity Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447bb"
+  },
+  "code": 90158,
+  "name": "Futo Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447bc"
+  },
+  "code": 90159,
+  "name": "Credit Afrique Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447bd"
+  },
+  "code": 90160,
+  "name": "Addosser Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447be"
+  },
+  "code": 90161,
+  "name": "Okpoga Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447bf"
+  },
+  "code": 90162,
+  "name": "Stanford Microfinance Bak",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c0"
+  },
+  "code": 90164,
+  "name": "First Royal Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c1"
+  },
+  "code": 90165,
+  "name": "Petra Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c2"
+  },
+  "code": 90166,
+  "name": "Eso-E Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c3"
+  },
+  "code": 90167,
+  "name": "Daylight Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c4"
+  },
+  "code": 90168,
+  "name": "Gashua Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c5"
+  },
+  "code": 90169,
+  "name": "Alpha Kapital Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c6"
+  },
+  "code": 90171,
+  "name": "Mainstreet Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c7"
+  },
+  "code": 90172,
+  "name": "Astrapolaris Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c8"
+  },
+  "code": 90173,
+  "name": "Reliance Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447c9"
+  },
+  "code": 90174,
+  "name": "Malachy Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ca"
+  },
+  "code": 90175,
+  "name": "HighStreet Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447cb"
+  },
+  "code": 90176,
+  "name": "Bosak Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447cc"
+  },
+  "code": 90177,
+  "name": "Lapo Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447cd"
+  },
+  "code": 90178,
+  "name": "GreenBank Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ce"
+  },
+  "code": 90179,
+  "name": "FAST Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447cf"
+  },
+  "code": 90180,
+  "name": "Amju Unique Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d0"
+  },
+  "code": 90181,
+  "name": "Balogun Fulani Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d1"
+  },
+  "code": 90186,
+  "name": "Girei Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d2"
+  },
+  "code": 90188,
+  "name": "Baines Credit Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d3"
+  },
+  "code": 90189,
+  "name": "Esan Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d4"
+  },
+  "code": 90190,
+  "name": "Mutual Benefits Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d5"
+  },
+  "code": 90191,
+  "name": "KCMB Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d6"
+  },
+  "code": 90192,
+  "name": "Midland Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d7"
+  },
+  "code": 90193,
+  "name": "Unical Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d8"
+  },
+  "code": 90194,
+  "name": "NIRSAL Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447d9"
+  },
+  "code": 90195,
+  "name": "Grooming Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447da"
+  },
+  "code": 90196,
+  "name": "Pennywise Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447db"
+  },
+  "code": 90197,
+  "name": "ABU Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447dc"
+  },
+  "code": 90198,
+  "name": "RenMoney Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447dd"
+  },
+  "code": 90202,
+  "name": "Accelerex Network Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447de"
+  },
+  "code": 90205,
+  "name": "New Dawn Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447df"
+  },
+  "code": 90251,
+  "name": "UNN MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e0"
+  },
+  "code": 90252,
+  "name": "Yobe Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e1"
+  },
+  "code": 90254,
+  "name": "Coalcamp Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e2"
+  },
+  "code": 90258,
+  "name": "Imo State Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e3"
+  },
+  "code": 90259,
+  "name": "Alekun Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e4"
+  },
+  "code": 90260,
+  "name": "Above Only Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e5"
+  },
+  "code": 90261,
+  "name": "Quickfund Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e6"
+  },
+  "code": 90262,
+  "name": "Stellas Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e7"
+  },
+  "code": 90263,
+  "name": "Navy Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e8"
+  },
+  "code": 90264,
+  "name": "Auchi Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447e9"
+  },
+  "code": 90265,
+  "name": "Lovonus Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ea"
+  },
+  "code": 90266,
+  "name": "Uniben Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447eb"
+  },
+  "code": 90267,
+  "name": "Kuda Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ec"
+  },
+  "code": 90268,
+  "name": "Adeyemi College Staff Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ed"
+  },
+  "code": 90269,
+  "name": "Greenville Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ee"
+  },
+  "code": 90270,
+  "name": "AB Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ef"
+  },
+  "code": 90271,
+  "name": "Lavender Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f0"
+  },
+  "code": 90272,
+  "name": "Olabisi Onabanjo University Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f1"
+  },
+  "code": 90273,
+  "name": "Emeralds Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f2"
+  },
+  "code": 90274,
+  "name": "Prestige Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f3"
+  },
+  "code": 90276,
+  "name": "Trustfund Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f4"
+  },
+  "code": 90277,
+  "name": "Al-Hayat Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f5"
+  },
+  "code": 90278,
+  "name": "Glory Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f6"
+  },
+  "code": 90279,
+  "name": "Ikire Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f7"
+  },
+  "code": 90280,
+  "name": "Megapraise Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f8"
+  },
+  "code": 90281,
+  "name": "MintFinex Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447f9"
+  },
+  "code": 90282,
+  "name": "Arise Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447fa"
+  },
+  "code": 90283,
+  "name": "Nnew Women Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447fb"
+  },
+  "code": 90285,
+  "name": "First Option Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447fc"
+  },
+  "code": 90286,
+  "name": "Safe Haven Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447fd"
+  },
+  "code": 90287,
+  "name": "AssetMatrix Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447fe"
+  },
+  "code": 90289,
+  "name": "Pillar Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d8447ff"
+  },
+  "code": 90290,
+  "name": "FCT Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844800"
+  },
+  "code": 90292,
+  "name": "Afekhafe Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844801"
+  },
+  "code": 90293,
+  "name": "Brethren Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844802"
+  },
+  "code": 90294,
+  "name": "Eagle Flight Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844803"
+  },
+  "code": 90295,
+  "name": "Omiye Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844804"
+  },
+  "code": 90296,
+  "name": "Polyunwana Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844805"
+  },
+  "code": 90297,
+  "name": "Alert Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844806"
+  },
+  "code": 90298,
+  "name": "FedPoly Nasarawa Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844807"
+  },
+  "code": 90299,
+  "name": "Kontagora Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844808"
+  },
+  "code": 90303,
+  "name": "Purplemoney Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844809"
+  },
+  "code": 90304,
+  "name": "Evangel Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84480a"
+  },
+  "code": 90305,
+  "name": "Sulspap Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84480b"
+  },
+  "code": 90308,
+  "name": "Brightway Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84480c"
+  },
+  "code": 90310,
+  "name": "EdFin Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84480d"
+  },
+  "code": 90315,
+  "name": "U & C Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84480e"
+  },
+  "code": 90317,
+  "name": "PatrickGold Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84480f"
+  },
+  "code": 90318,
+  "name": "Federal University Dutse Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844810"
+  },
+  "code": 90320,
+  "name": "KadPoly Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844811"
+  },
+  "code": 90321,
+  "name": "MayFair Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844812"
+  },
+  "code": 90322,
+  "name": "Rephidim Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844813"
+  },
+  "code": 90323,
+  "name": "Mainland Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844814"
+  },
+  "code": 90324,
+  "name": "Ikenne Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844815"
+  },
+  "code": 90325,
+  "name": "Sparkle",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844816"
+  },
+  "code": 90326,
+  "name": "Balogun Gambari Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844817"
+  },
+  "code": 90327,
+  "name": "Trust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844818"
+  },
+  "code": 90328,
+  "name": "Eyowo",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844819"
+  },
+  "code": 90329,
+  "name": "Neptune Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84481a"
+  },
+  "code": 90331,
+  "name": "UNAAB Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84481b"
+  },
+  "code": 90332,
+  "name": "Evergreen Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84481c"
+  },
+  "code": 90333,
+  "name": "Oche Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84481d"
+  },
+  "code": 90336,
+  "name": "BIPC Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84481e"
+  },
+  "code": 90338,
+  "name": "UniUyo Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84481f"
+  },
+  "code": 90352,
+  "name": "Jessefield Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844820"
+  },
+  "code": 90360,
+  "name": "CashConnect Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844821"
+  },
+  "code": 90362,
+  "name": "Molusi Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844822"
+  },
+  "code": 90363,
+  "name": "Headway Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844823"
+  },
+  "code": 90364,
+  "name": "Nuture Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844824"
+  },
+  "code": 90365,
+  "name": "Corestep Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844825"
+  },
+  "code": 90366,
+  "name": "Firmus Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844826"
+  },
+  "code": 90369,
+  "name": "Seedvest Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844827"
+  },
+  "code": 90370,
+  "name": "Ilisan Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844828"
+  },
+  "code": 90372,
+  "name": "Legend Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844829"
+  },
+  "code": 90373,
+  "name": "Think Finance Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84482a"
+  },
+  "code": 90374,
+  "name": "Coastline Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84482b"
+  },
+  "code": 90376,
+  "name": "Apple Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84482c"
+  },
+  "code": 90377,
+  "name": "Isaleoyo Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84482d"
+  },
+  "code": 90378,
+  "name": "New Golden Pastures Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84482e"
+  },
+  "code": 90380,
+  "name": "Conpro Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84482f"
+  },
+  "code": 90385,
+  "name": "GTI Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844830"
+  },
+  "code": 90386,
+  "name": "Interland Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844831"
+  },
+  "code": 90389,
+  "name": "EK-Reliable Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844832"
+  },
+  "code": 90391,
+  "name": "Davodani Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844833"
+  },
+  "code": 90393,
+  "name": "Bridgeway Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844834"
+  },
+  "code": 90394,
+  "name": "Amac Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844835"
+  },
+  "code": 90395,
+  "name": "Borgu Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844836"
+  },
+  "code": 90396,
+  "name": "Oscotech Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844837"
+  },
+  "code": 90398,
+  "name": "Federal Polytechnic Nekede Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844838"
+  },
+  "code": 90399,
+  "name": "Nwannegadi Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844839"
+  },
+  "code": 90401,
+  "name": "Shepherd Trust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84483a"
+  },
+  "code": 90404,
+  "name": "Olowolagba Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84483b"
+  },
+  "code": 90405,
+  "name": "Rolez Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84483c"
+  },
+  "code": 90406,
+  "name": "Business Support Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84483d"
+  },
+  "code": 90408,
+  "name": "GMB Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84483e"
+  },
+  "code": 90409,
+  "name": "FCMB BETA",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84483f"
+  },
+  "code": 90410,
+  "name": "Maritime Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844840"
+  },
+  "code": 90411,
+  "name": "Giginya Microfinance bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844841"
+  },
+  "code": 90412,
+  "name": "Preeminent Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844842"
+  },
+  "code": 90433,
+  "name": "Rigo Microfinance Bank Limited",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844843"
+  },
+  "code": 90444,
+  "name": "BOI Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844844"
+  },
+  "code": 90448,
+  "name": "Moyofade Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844845"
+  },
+  "code": 90463,
+  "name": "Rehoboth Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844846"
+  },
+  "code": 90464,
+  "name": "Unimaid Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844847"
+  },
+  "code": 90465,
+  "name": "Maintrust Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844848"
+  },
+  "code": 90466,
+  "name": "YCT Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844849"
+  },
+  "code": 90467,
+  "name": "Good Neigbours Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84484a"
+  },
+  "code": 90468,
+  "name": "OLOFIN OWENA Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84484b"
+  },
+  "code": 90469,
+  "name": "Aniocha Microfinance bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84484c"
+  },
+  "code": 90470,
+  "name": "Changan RTS Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84484d"
+  },
+  "code": 90471,
+  "name": "Oluchukwu Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84484e"
+  },
+  "code": 90472,
+  "name": "Caretaker Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84484f"
+  },
+  "code": 90473,
+  "name": "Assets Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844850"
+  },
+  "code": 90474,
+  "name": "Verdant Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844851"
+  },
+  "code": 90475,
+  "name": "Giant Stride Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844852"
+  },
+  "code": 90476,
+  "name": "Anchorage  Microfinance Bank ",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844853"
+  },
+  "code": 90477,
+  "name": "Light MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844854"
+  },
+  "code": 90482,
+  "name": "Fedeth Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844855"
+  },
+  "code": 90483,
+  "name": "Ada Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844856"
+  },
+  "code": 90489,
+  "name": "Alvana Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844857"
+  },
+  "code": 90490,
+  "name": "Chukwunenye MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844858"
+  },
+  "code": 90491,
+  "name": "Nsuk MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844859"
+  },
+  "code": 90492,
+  "name": "Oraukwu MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84485a"
+  },
+  "code": 90494,
+  "name": "Boji MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84485b"
+  },
+  "code": 90495,
+  "name": "Goodnews Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84485c"
+  },
+  "code": 90499,
+  "name": "Pristine Divitis Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84485d"
+  },
+  "code": 90502,
+  "name": "Shalom Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84485e"
+  },
+  "code": 90503,
+  "name": "Projects Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84485f"
+  },
+  "code": 90504,
+  "name": "Zikora Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844860"
+  },
+  "code": 90505,
+  "name": "Nigerian Prisons Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844861"
+  },
+  "code": 90506,
+  "name": "Solid Allianze MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844862"
+  },
+  "code": 90507,
+  "name": "FIMS MFB",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844863"
+  },
+  "code": 90513,
+  "name": "SEAP Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844864"
+  },
+  "code": 90515,
+  "name": "RIMA Growth Pathway Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844865"
+  },
+  "code": 90517,
+  "name": "Uhuru Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844866"
+  },
+  "code": 90590,
+  "name": "Waya Microfinance Bank",
+  "category": 9
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844867"
+  },
+  "code": 100001,
+  "name": "FET",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844868"
+  },
+  "code": 100002,
+  "name": "Paga",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844869"
+  },
+  "code": 100003,
+  "name": "Parkway-ReadyCash",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84486a"
+  },
+  "code": 100004,
+  "name": "Paycom(Opay)",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84486b"
+  },
+  "code": 100005,
+  "name": "Cellulant",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84486c"
+  },
+  "code": 100006,
+  "name": "eTranzact",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84486d"
+  },
+  "code": 100007,
+  "name": "Stanbic IBTC @ease wallet",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84486e"
+  },
+  "code": 100008,
+  "name": "Ecobank Xpress Account",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84486f"
+  },
+  "code": 100009,
+  "name": "GTMobile",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844870"
+  },
+  "code": 100010,
+  "name": "TeasyMobile",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844871"
+  },
+  "code": 100011,
+  "name": "Mkudi",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844872"
+  },
+  "code": 100012,
+  "name": "VTNetworks",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844873"
+  },
+  "code": 100013,
+  "name": "AccessMobile",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844874"
+  },
+  "code": 100014,
+  "name": "FBNMobile",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844875"
+  },
+  "code": 100016,
+  "name": "FortisMobile",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844876"
+  },
+  "code": 100017,
+  "name": "Hedonmark",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844877"
+  },
+  "code": 100018,
+  "name": "ZenithMobile",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844878"
+  },
+  "code": 100019,
+  "name": "Fidelity Mobile",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844879"
+  },
+  "code": 100020,
+  "name": "MoneyBox",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84487a"
+  },
+  "code": 100021,
+  "name": "Eartholeum",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84487b"
+  },
+  "code": 100022,
+  "name": "GoMoney",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84487c"
+  },
+  "code": 100023,
+  "name": "TagPay",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84487d"
+  },
+  "code": 100024,
+  "name": "Imperial Homes Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84487e"
+  },
+  "code": 100025,
+  "name": "Zinternet Nigera Limited",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84487f"
+  },
+  "code": 100026,
+  "name": "One Finance",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844880"
+  },
+  "code": 100027,
+  "name": "Intellifin",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844881"
+  },
+  "code": 100028,
+  "name": "AG Mortgage Bank",
+  "category": 7
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844882"
+  },
+  "code": 100029,
+  "name": "Innovectives Kesh",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844883"
+  },
+  "code": 100030,
+  "name": "EcoMobile",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844884"
+  },
+  "code": 100031,
+  "name": "FCMB Easy Account",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844885"
+  },
+  "code": 100032,
+  "name": "Contec Global Infotech Limited (NowNow)",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844886"
+  },
+  "code": 100033,
+  "name": "PalmPay Limited",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844887"
+  },
+  "code": 100034,
+  "name": "Zenith Eazy Wallet",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844888"
+  },
+  "code": 100035,
+  "name": "M36",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844889"
+  },
+  "code": 100036,
+  "name": "Kegow (Chamsmobile)",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84488a"
+  },
+  "code": 100052,
+  "name": "Access Yello",
+  "category": 10
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84488b"
+  },
+  "code": 110001,
+  "name": "PayAttitude Online",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84488c"
+  },
+  "code": 110002,
+  "name": "Flutterwave Technology Solutions Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84488d"
+  },
+  "code": 110003,
+  "name": "Interswitch Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84488e"
+  },
+  "code": 110004,
+  "name": "First Apple Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84488f"
+  },
+  "code": 110005,
+  "name": "3line Card Management Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844890"
+  },
+  "code": 110006,
+  "name": "Paystack Payment Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844891"
+  },
+  "code": 110007,
+  "name": "Teamapt Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844892"
+  },
+  "code": 110014,
+  "name": "Cyberspace Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844893"
+  },
+  "code": 110015,
+  "name": "Vas2nets Limited",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844894"
+  },
+  "code": 110017,
+  "name": "Crowdforce",
+  "category": 11
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844895"
+  },
+  "code": 120001,
+  "name": "9Payment Service Bank",
+  "category": 12
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844896"
+  },
+  "code": 120002,
+  "name": "HopePSB",
+  "category": 12
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844897"
+  },
+  "code": 120003,
+  "name": "MoMo PSB",
+  "category": 12
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844898"
+  },
+  "code": 120004,
+  "name": "SmartCash PSB",
+  "category": 12
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d844899"
+  },
+  "code": 400001,
+  "name": "FSDH Merchant Bank",
+  "category": 6
+},
+{
+  "_id": {
+    "$oid": "651cf14154324a608d84489a"
+  },
+  "code": 999999,
+  "name": "NIP Virtual Bank",
+  "category": 11
+}]

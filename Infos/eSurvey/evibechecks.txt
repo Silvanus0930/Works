@@ -1,0 +1,27 @@
+ServerIp: 3.220.98.130
+Domain: dev.evibechecks
+
+Git tokens: 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
+- Git projects: 
+
+backend:
+	git clone https://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@github.com/deolly/evibechecks.git
+admin:
+	git clone https://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@github.com/deolly/admin_evibechecks.git
+employee:
+	git clone https://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@github.com/deolly/employee_evibechecks.git
+mobile:
+	git clone https://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@github.com/deolly/mobile_evibechecks.git
+
+sudo certbot --nginx -d dev.evibechecks.com 
+***
+sudo certbot --nginx -d www.dev.evibechecks.com 
+
+-TG token
+6486683321:AAEmjL6HcYa8HflIzYY_UFgEoAXKKqxdfvM
+
+https://t.me/dev_evibechecks_bot
+
+channelID: 
+admin: -1002121006788
+admin_error: -1002133441079
