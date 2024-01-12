@@ -1,1 +1,11 @@
-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
+silvanus0930: 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
+silvanus930: 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
+
+git remote set-url origin https://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@github.com/deolly/mothrift.git
+git remote set-url origin https://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@github.com/deolly/admin_mothrift.git
+git remote set-url origin https://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@github.com/deolly/customer_mothrift.git
+
+git clone https://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@github.com/deolly/mothrift.git
+git clone https://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@github.com/deolly/admin_mothrift.git
+git clone https://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@github.com/deolly/customer_mothrift.git
+
